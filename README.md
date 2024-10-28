@@ -76,6 +76,13 @@ Effective preprocessing is crucial for enhancing model performance. The followin
 
 After evaluating all models and preprocessing strategies, the final performance metrics are summarized as follows:
 
+**Best Performing Model:**
+ **XGBoost (with SMOTE)**
+   - **Precision**: 31%
+   - **Recall**: 32%
+   - **Accuracy**: 99.5%
+
+**Higest Benchmarks Achieved (Different Models):**
 - **Accuracy**: 99.2%
 - **Precision**: 31%
 - **Recall**: 75%
